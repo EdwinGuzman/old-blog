@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Marathon | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Marathon | Coding and Running]]></title>
   <link href="http://edwinguzman.github.io/blog/categories/marathon/atom.xml" rel="self"/>
   <link href="http://edwinguzman.github.io/"/>
-  <updated>2017-11-20T16:46:03-05:00</updated>
+  <updated>2017-11-20T17:30:41-05:00</updated>
   <id>http://edwinguzman.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Edwin Guzman]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
