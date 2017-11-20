@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Programming | My Octopress Blog]]></title>
+  <link href="http://edwinguzman.github.io/blog/categories/programming/atom.xml" rel="self"/>
+  <link href="http://edwinguzman.github.io/"/>
+  <updated>2017-11-20T16:46:03-05:00</updated>
+  <id>http://edwinguzman.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A New Hope]]></title>
+    <link href="http://edwinguzman.github.io/blog/2016/03/16/a-new-hope/"/>
+    <updated>2016-03-16T21:59:26-04:00</updated>
+    <id>http://edwinguzman.github.io/blog/2016/03/16/a-new-hope</id>
+    <content type="html"><![CDATA[<p>My last personal blog post was written on March 7th, 2015. Over a year ago. I made an attempt to write more but that didn&rsquo;t happen, at least not for my personal blog.</p>
+
+<p>That blog post mentioned how I had written one blog post, how I was in the middle of writing two more,  and how I was not too happy then.</p>
+
+<p>It&rsquo;s been a year and so much has changed. I have written <a href="http://www.nypl.org/blog/author/1269">seven blog posts</a> for nypl.org, two on running and five on coding; I have grown as a runner in 2015 and in the past three months of 2016; I ran the LA Marathon in February; I went to San Francisco last week to attend O'Reilly Fluent Conference; I just went on a date with my mom to see On Your Feet!; I have met so many other runners who motivate me; I&rsquo;ve helped my dad get on a running agenda and will race his first half marathon at the NYRR NYC Half and possibly run the Queens Marathon; and I am happy.</p>
+
+<p>More biking, running, and coding.</p>
+]]></content>
+  </entry>
+  
+</feed>
