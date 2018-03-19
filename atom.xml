@@ -4,7 +4,7 @@
   <title><![CDATA[Coding and Running]]></title>
   <link href="http://edwinguzman.github.io/atom.xml" rel="self"/>
   <link href="http://edwinguzman.github.io/"/>
-  <updated>2017-11-22T10:51:03-05:00</updated>
+  <updated>2018-03-18T21:29:43-04:00</updated>
   <id>http://edwinguzman.github.io/</id>
   <author>
     <name><![CDATA[Edwin Guzman]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Five Years at NYPL]]></title>
+    <link href="http://edwinguzman.github.io/blog/2018/03/01/five-years-at-nypl/"/>
+    <updated>2018-03-01T11:44:22-05:00</updated>
+    <id>http://edwinguzman.github.io/blog/2018/03/01/five-years-at-nypl</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s difficult to discuss the vicissitudes of working at The New York Public Library. There are many amazing projects and services that NYPL provides to New Yorkers and researchers all over the world. But, there are difficulties in getting said projects completed and frustrations with the workplace that impede productivity. In any case, the past five years have been personally and professionally fulfilling and I hope to further grow in the years to come.</p>
+
+<!-- more -->
+
+
+<p>I&rsquo;m currently working on a new feature for the Share Collection Catalog&mdash;or Discovery as we internally call it&mdash;which was launched in November of 2017. It&rsquo;s our user interface to the research catalog that NYPL is currently sharing with Princeton and Columbia. Leading the React front-end development and helping architect the AWS/NodeJS backend was only a small part of the whole project but that was the part that received most visibility and scrutiny. The bulk of the project, the main part of the project, was all the metadata work that went into extracting and surfacing bibliographic information for books and items. At the end of the day, patrons, researchers, NYPL staff, and catalogers were impressed and happy with what our team launched, and that&rsquo;s very important.</p>
+
+<p>The best part of this project was my team. Unfortunately, a few members left&mdash;for many reasons which will take too long to explain&mdash;and the roadmap and goal for the project wasn&rsquo;t always clear. During all that time, however, we still worked as best we could to get the work we wanted out. It was quite a bittersweet moment when we finally launched the project.</p>
+
+<p>The second project I recently started to work on is SimplyE, our e-book reader mobile app. I&rsquo;m slowly, but surely, picking up python, typescript, the huge codebase, and submitting changes to the admin interface which helps configure settings for NYPL and other libraries that want to use the mobile apps. Since it&rsquo;s open source, any library can use our app with their own catalog. The vastness of this project is overwhelming but there&rsquo;s no better way to jump into a project than head first. But, I get help and encouragement which is much appreciated.</p>
+
+<p>Things are looking up. Whenever we get to help out researchers and patrons, we know we&rsquo;re doing a good job. It&rsquo;s been five years at NYPL and I&rsquo;m excited to see where I go from here.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2017 Fall Marathons Recap]]></title>
